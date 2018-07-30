@@ -1,0 +1,5 @@
+C:\Users\charles.fernandes\Desktop\Exemplos\DemoTestes\Calculo\bin\Debug\Calculo.dll
+C:\Users\charles.fernandes\Desktop\Exemplos\DemoTestes\Calculo\bin\Debug\Calculo.pdb
+C:\Users\charles.fernandes\Desktop\Exemplos\DemoTestes\Calculo\obj\Debug\Calculo.csproj.CoreCompileInputs.cache
+C:\Users\charles.fernandes\Desktop\Exemplos\DemoTestes\Calculo\obj\Debug\Calculo.dll
+C:\Users\charles.fernandes\Desktop\Exemplos\DemoTestes\Calculo\obj\Debug\Calculo.pdb

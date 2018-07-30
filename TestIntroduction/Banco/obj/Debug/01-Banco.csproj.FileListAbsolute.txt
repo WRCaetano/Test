@@ -1,0 +1,6 @@
+C:\Users\charles.fernandes\Desktop\Exemplos\DemoTestes\Banco\bin\Debug\Banco.dll
+C:\Users\charles.fernandes\Desktop\Exemplos\DemoTestes\Banco\bin\Debug\Banco.pdb
+C:\Users\charles.fernandes\Desktop\Exemplos\DemoTestes\Banco\obj\Debug\01-Banco.csprojAssemblyReference.cache
+C:\Users\charles.fernandes\Desktop\Exemplos\DemoTestes\Banco\obj\Debug\01-Banco.csproj.CoreCompileInputs.cache
+C:\Users\charles.fernandes\Desktop\Exemplos\DemoTestes\Banco\obj\Debug\Banco.dll
+C:\Users\charles.fernandes\Desktop\Exemplos\DemoTestes\Banco\obj\Debug\Banco.pdb
